@@ -35,10 +35,3 @@ This project **streamlines communication & reminders** using **FastAPI, Flask, T
 - **Google Sheets** (acts as a temporary database)  
 
 ---
-
-## 🚀 Installation Guide
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/notification_pusher.git
-cd notification_pusher
